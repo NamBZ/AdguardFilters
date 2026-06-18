@@ -1,0 +1,86 @@
+! Title: Game PC Store.
+! Last updated: 18/06/2026
+!
+! *** https://github.com/NamBZ/AdguardFilters/raw/main/SafeKids/pcgame.txt ***
+# nVidia
+||ls.dtrace.nvidia.com^$ctag=user_child
+||telemetry.gfe.nvidia.com^$ctag=user_child
+||accounts.nvgs.nvidia.com^$ctag=user_child
+||nvidia.tt.omtrdc.net^$ctag=user_child
+||api.commune.ly^$ctag=user_child
+||login.nvgs.nvidia.cn^$ctag=user_child
+||events.gfe.nvidia.com^$ctag=user_child
+
+# Redshell
+||redshell.io^$ctag=user_child
+||api.redshell.io^$ctag=user_child
+||treasuredata.com^$ctag=user_child
+||api.treasuredata.com^$ctag=user_child
+
+# Blizzard
+||telemetry-in.battle.net^$ctag=user_child
+
+# Epic Games
+||dev.epicgames.com^$ctag=user_child
+||api.epicgames.dev^$ctag=user_child
+||et.epicgames.com^$ctag=user_child
+||et2.epicgames.com^$ctag=user_child
+||udn.epicgames.com^$ctag=user_child
+||etsource.epicgames.com^$ctag=user_child
+||metrics.ol.epicgames.com^$ctag=user_child
+||datarouter.ol.epicgames.com^$ctag=user_child
+
+# Unity Engine
+||cdp.cloud.unity3d.com^$ctag=user_child
+||api.uca.cloud.unity3d.com^$ctag=user_child
+||config.uca.cloud.unity3d.com^$ctag=user_child
+||perf-events.cloud.unity3d.com^$ctag=user_child
+||prd-lender.cdp.internal.unity3d.com^$ctag=user_child
+||thind-gke-usc.prd.data.corp.unity3d.com^$ctag=user_child
+||thind-prd-knob.data.ie.unity3d.com^$ctag=user_child
+||remote-config-proxy-prd.uca.cloud.unity3d.com^$ctag=user_child
+||data-optout-service.uca.cloud.unity3d.com^$ctag=user_child
+
+# ea.com
+||ea.com^$ctag=user_child
+||origin.com^$ctag=user_child
+||eaassets-a.akamaihd.net^$ctag=user_child
+||easports.com^$ctag=user_child
+
+# playvalorant.com
+||playvalorant.com^$ctag=user_child
+||valorant-hq.com^$ctag=user_child
+||riotgames.com^$ctag=user_child
+||auth.riotgames.com^$ctag=user_child
+
+# riotgames.com
+||riotgames.com^$ctag=user_child
+||leagueoflegends.com^$ctag=user_child
+||valorant.com^$ctag=user_child
+||playvalorant.com^$ctag=user_child
+||teamfighttactics.com^$ctag=user_child
+||leagueofgraphs.com^$ctag=user_child
+
+# roblox.com
+||roblox.com^$ctag=user_child
+||rbxcdn.com^$ctag=user_child
+||rbx.com^$ctag=user_child
+
+# rockstargames.com
+||rockstargames.com^$ctag=user_child
+||rockstarcdn.com^$ctag=user_child
+||rsg.sc^$ctag=user_child
+||gta5-mods.com^$ctag=user_child
+
+# steam.com
+||steam.com^$ctag=user_child
+||steampowered.com^$ctag=user_child
+||steamcommunity.com^$ctag=user_child
+||steamgames.com^$ctag=user_child
+||steamusercontent.com^$ctag=user_child
+||steamstatic.com^$ctag=user_child
+||steamcontent.com^$ctag=user_child
+||steamserver.net^$ctag=user_child
+||steamchat.com^$ctag=user_child
+||steam-chat.com^$ctag=user_child
+||valvesoftware.com^$ctag=user_child
