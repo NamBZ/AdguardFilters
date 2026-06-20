@@ -127,3 +127,4 @@
 ||lmhmod.me^$ctag=user_child
 ||pvzge.com^$ctag=user_child
 ||taimienphi.vn^$ctag=user_child
+||market.xiaomi.com^$ctag=user_child
